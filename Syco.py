@@ -99,7 +99,7 @@ def loginvia():
     time.sleep(0.5)
     os.system('clear')
     print logo
-    print ("[1] Login With Token \033[1;90m(\033[1;91mNO-CP\033[1;90m)\033[1;97m ")
+    print ("[1] Login With Token \033[1;90m(\033[1;91mNoCP\033[1;90m)\033[1;97m ")
     print ("[2] Login With User And Pass")
     print ("[0] Back")
     print u"\u001b[1;46m---------------------------------------------"
