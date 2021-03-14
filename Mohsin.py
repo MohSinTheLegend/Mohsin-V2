@@ -285,9 +285,9 @@ def crack2():
         else:
                 print ("[!] Fill Correctly")
                 crack2()
-        print("[+] Hamw ID yakan : "+str(len(id)))
+        print("[+] TOTAL IDZ : "+str(len(id)))
         time.sleep(0.5)
-        print("[+] Tkaya Chaware ba Bo Hack Krdn")
+        print("[+] Cracking Start clone Account will Appear Here")
         time.sleep(0.5)
         print u"\u001b[1;46m---------------------------------------------"
 
