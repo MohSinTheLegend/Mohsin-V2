@@ -64,10 +64,10 @@ logo = """
 \033[1;97m----------------------------------------------------------------------------
 \033[1;97m----------------------------------------------------------------------------
  Coded by : \033[1;91m Mohsin Ali
- Facebook : \033[1;93m MOHSIN.ALI.THE.FATHER.OF.HATERX
- Instagram: \033[1;92m MohsinAliOfficial786
- NOTE     : \033[1;94m M NOT RESPONSBILE ANY MISS USE
- WARNING  : \033[1;93m DON'T TRY TO COPY
+ Facebook : \033[1;91m MOHSIN.ALI.THE.FATHER.OF.HATERX
+ Instagram: \033[1;91m MohsinAliOfficial786
+ NOTE     : \033[1;91m M NOT RESPONSBILE ANY MISS USE
+ WARNING  : \033[1;91m DON'T TRY TO COPY
 \033[1;97m----------------------------------------------------------------------------
 """
 
