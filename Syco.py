@@ -61,7 +61,7 @@ def download():
     for o in titik:
         print(" Downloading "+o),;sys.stdout.flush();time.sleep(0.5)
 logo = """
-\033[1;97m---------------------------------------------------------------------------- Created By MOHSIN ALI
+\033[1;97m---------------------------------------------------------------------------- \033[1;91mCreated By MOHSIN ALI
 \033[1;97m----------------------------------------------------------------------------
  Coded by : \033[1;91m Mohsin Ali
  Facebook : \033[1;91m MOHSIN.ALI.THE.FATHER.OF.HATERX
@@ -99,7 +99,7 @@ def loginvia():
     time.sleep(0.5)
     os.system('clear')
     print logo
-    print ("[1] Login With Token \033[1;90m(\033[1;93mNoCp\033[1;90m)\033[1;97m ")
+    print ("[1] Login With Token \033[1;90m(\033[1;91mNO-CP\033[1;90m)\033[1;97m ")
     print ("[2] Login With User And Pass")
     print ("[0] Back")
     print u"\u001b[1;46m---------------------------------------------"
