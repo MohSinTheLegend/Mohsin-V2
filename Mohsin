@@ -149,7 +149,7 @@ def login_select():
             nm = name.rsplit(" ")[0]
             print("\t\033[1;97mToken logged in as : "+nm+"\033[0;97m")
             time.sleep(3)
-            tech_abm()
+            tech_mohsin()
         except (KeyError , IOError):
             os.system('echo -e " \t    \033[1;31mToken not valid\033[0;97m "| lolcat')
             raw_input(" Press enter to try again ")
